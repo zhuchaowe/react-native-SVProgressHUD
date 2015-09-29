@@ -1,0 +1,25 @@
+{
+  "name": "react-native-svprogress-hud",
+  "version": "1.0.0",
+  "description": "SVProgressHUD For your React app,support IOS And Android",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm run lint"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zhuchaowe/react-native-SVProgressHUD.git"
+  },
+  "keywords": [
+    "react",
+    "progress",
+    "SVProgressHUD",
+    "hud"
+  ],
+  "author": "zhuchao@iosx.me",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/zhuchaowe/react-native-SVProgressHUD/issues"
+  },
+  "homepage": "https://github.com/zhuchaowe/react-native-SVProgressHUD#readme"
+}
